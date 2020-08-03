@@ -6,7 +6,9 @@ I needed one for [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKey
 
 You can download `be_wordlist.combined.gz` from [releases](https://github.com/anibyl/Belarusian-AOSP-dictionary/releases).
 
-[Source](https://bnkorpus.info/download.html) (LibreOffice spellcheck)
+[Source 1](https://bnkorpus.info/download.html) (LibreOffice spellcheck)
+
+[Source 2](https://github.com/mikalai-udodau/spell-be) (short, Hunspell)
 
 [Romanization](http://slounik.org/lat) (traditional)
 
